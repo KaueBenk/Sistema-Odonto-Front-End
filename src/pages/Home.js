@@ -132,16 +132,14 @@ function Home() {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-md-6">
-                                <img src={agenda} alt="Agenda" className="img-fluid"/>
+                                <img src={agenda} alt="dashboard" className="img-fluid"/>
                             </div>
                             <div className="col-md-6">
-                                <h2 className="mb-4">Agenda</h2>
+                                <h2 className="mb-4">Painel de controle</h2>
                                 <p className="mb-4">
-                                    Com a nossa agenda para clínicas odontológicas, você pode
-                                    agendar consultas, procedimentos e tratamentosde forma fácil e
-                                    organizada. O sistema permite que você visualize as suas agendas
-                                    diárias, semanais e mensais, além de poder verificar as
-                                    disponibilidades de horários e profissionais.
+                                Com o nosso painel de controle para clínicas odontológicas, você pode monitorar o número de pacientes e itens com baixo estoque de forma simples e eficiente. 
+                                O sistema oferece uma visão completa das informações, permitindo que você acompanhe a quantidade de pacientes atendidos e identifique os itens que precisam ser reabastecidos. 
+                                Com apenas alguns cliques, você terá acesso a dados atualizados sobre a demanda e disponibilidade de recursos, garantindo uma gestão organizada e otimizada.
                                 </p>
                                 {/*<a href="#" className="btn btn-primary">Agende uma demonstração</a>*/}
                             </div>
